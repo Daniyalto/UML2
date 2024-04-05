@@ -28,7 +28,7 @@ namespace UML2
             Console.WriteLine();
 
             string input = "";
-            Console.WriteLine("Please enter the name for your new pizza:");
+            Console.Write("Please enter the name for your new pizza:");
 
             try
             {
